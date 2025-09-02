@@ -12,7 +12,7 @@
 - run `videogit -h` for a full list of options
 
 ## Example Usage
-- `videogit ba12dc8 -wpm 60 -r 24 -f main.py test.cpp include/test.h`
+- `videogit ba12dc8 --wpm 60 -r 24 -f main.py test.cpp include/test.h`
   
   Creates a 24 fps video from the commit ba12dc8 to the HEAD, at a typing speed of 60 wpm, for files `main.y`, `test.cpp`, and `include/test.h`
  
